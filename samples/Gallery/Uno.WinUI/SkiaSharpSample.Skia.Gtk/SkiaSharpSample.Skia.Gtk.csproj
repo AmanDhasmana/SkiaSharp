@@ -18,7 +18,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.Logging" Version="6.0.0" />
     <PackageReference Include="Microsoft.Extensions.Logging.Filter" Version="1.1.2" />
-    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="6.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Console" Version="7.0.0" />
     <PackageReference Include="Uno.WinUI" Version="4.1.9" />
     <PackageReference Include="Uno.WinUI.Skia.Gtk" Version="4.1.9" />
     <PackageReference Include="Uno.WinUI.RemoteControl" Version="4.1.9" Condition="'$(Configuration)'=='Debug'" />
